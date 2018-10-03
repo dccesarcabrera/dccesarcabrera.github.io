@@ -4,6 +4,6 @@ title: Group in Petra
 subtitle: Jordan
 ---
 
-Cesar, give me some text to put here!
+Tour of landmarks in the Middle East.
 
 ![Group in Petra](/img/blog/petra-jordan-2012-01.jpg)
