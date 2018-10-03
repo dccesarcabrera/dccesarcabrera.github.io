@@ -2,19 +2,17 @@
 layout: page
 title: Contact
 bigimg:
-  - "/img/big-imgs/contact.jpg"
+  - "/img/big-imgs/contact__dock.jpg"
 ---
 
-# Some ways you can reach me:
+# Some Ways You Can Reach Me:
 
-**Cesar Cabrera**
+---
 
+**Cesar Cabrera**<br/>
 **TourMasters International**
 
-CesarCabrera@att.net
-
-CesarCabrera2000@hotmail.com
-
-Tel: 1.305.308.0561
-
-Twitter: @CesarTours
+<a href="mailto:name:CesarCabrera@att.net">CesarCabrera@att.net</a><br/>
+<a href="mailto:name:CesarCabrera2000@hotmail.com">CesarCabrera2000@hotmail.com</a><br/>
+Tel: +1 305-308-0561<br/>
+Twitter: <a href="https://twitter.com/CesarTours" target="_blank">@CesarTours</a>

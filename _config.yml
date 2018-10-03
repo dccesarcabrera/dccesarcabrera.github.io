@@ -27,8 +27,7 @@ navbar-links:
   Clients: "clients"
   About Me: "aboutme"
   Services: "services"
-  Multimedia: "multimedia"
-  Testimonies: "testinomies"
+  Testimonies: "testimonies"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -150,7 +149,7 @@ timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 15
 
 kramdown:
   input: GFM

@@ -1,12 +1,18 @@
 ---
 layout: page
-title: About me
+title: About Me
+bigimg:
+  - "/img/big-imgs/aboutme__mandala.jpg" : "Photo by Angela Yuriko"
+---
+
+# This Is Me, and Some of the Things I Like:
+
 ---
 
 ![alt text](/img/cesar_cabrera.jpg "Cesar at Kennedy Space Center, Orlando FL")
-Cesar at Kennedy Space Center, Orlando FL
+Kennedy Space Center - Titusville, Florida
 
-# Here are some of the things I like:
+---
 
 - Reading esoteric books,
 - Listening to classical music,

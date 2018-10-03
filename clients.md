@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Clients
-subtitle: Why you'd want to go on a date with me
 bigimg:
-  - "/img/big-imgs/washington_monument.jpg" : "Washington DC"
+  - "/img/big-imgs/clients__washington_monument.jpg" : "Washington DC"
 ---
 
-### Some of my corporate clients:
+# Some of My Corporate Clients:
+
+---
 
 - American Express (ES, MX, AR)
 - Carlson Wagonlit, (CO, MX, EG)
@@ -25,6 +26,3 @@ bigimg:
 - Aviatur (CO)
 - Gente Mayorista. LTDA (CO)
 - ProCaps Laboratories (CO)
-
-
-
