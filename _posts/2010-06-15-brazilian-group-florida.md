@@ -4,6 +4,6 @@ title: Brazilian Group
 subtitle: Florida, US
 ---
 
-Cesar, give me some text to put here!
+Students from Brazil, Sightseeing and Shopping Tours in Florida.
 
 ![Brazilian Group](/img/blog/brazilian-group-2010-06.jpg)

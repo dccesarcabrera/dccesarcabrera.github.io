@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Angolan Families
+title: Private Guide - Angolan Families
 subtitle: Orlando, FL
 ---
 
-Cesar, give me some text to put here!
+Week of fun in Orlando's parks.
 
 ![Do Amaral/Gomes from Angola](/img/blog/angolan-group-orlando-fl-2012-03.jpg)
 Do Amaral/Gomes Families from Angola

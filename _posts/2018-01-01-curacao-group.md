@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Curaçao Group from the Netherlands Antilles
-subtitle: ????
+subtitle: Miami, FL
 ---
 
-Cesar, give me some text to put here!
+At the Kendall Village Center, Shopping Tour.
 
 ![Curaçao group from the Netherlands Antilles](/img/blog/curacao-group.jpg)

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cesar at Key West
-subtitle: Key West, FL
+subtitle: FL, US
 ---
 
-Cesar, give me some text to put here!
+Cesar, at the Southernmost Point of the Continental US. 90 Miles from Cuba.
 
 ![Cesar at Key West](/img/blog/cesar-cabrera-key-west.jpg)
