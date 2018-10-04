@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Private Guide - Angolan Families
+title: Private Guide For Two Angolan Families
 subtitle: Orlando, FL
 ---
 
