@@ -6,4 +6,6 @@ subtitle: Miami, FL
 
 At Vizcaya Museum & Gardens with a Japanese group. Sightseeing tour.
 
+[
 ![Private Tour Japanese Group](/img/blog/japanese-group-miami-2016-12-28.jpg)
+](/img/blog/japanese-group-miami-2016-12-28.jpg)
